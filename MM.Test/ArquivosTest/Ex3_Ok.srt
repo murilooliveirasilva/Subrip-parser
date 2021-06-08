@@ -1,0 +1,1324 @@
+1
+00:00:00,450 --> 00:00:06,269
+e fala contador contadora essa aqui é
+
+2
+00:00:04,740 --> 00:00:10,048
+provavelmente a última aula do nosso
+
+3
+00:00:06,269 --> 00:00:11,940
+módulo 1 módulo realmente se você está
+
+4
+00:00:10,048 --> 00:00:13,619
+se dedicando tá entendendo proposta
+
+5
+00:00:11,939 --> 00:00:16,230
+desse modo se eu deixei claro para você
+
+6
+00:00:13,619 --> 00:00:20,280
+a importância desse módulo você tá
+
+7
+00:00:16,230 --> 00:00:22,199
+percebendo e através dele você vai
+
+8
+00:00:20,280 --> 00:00:25,200
+conseguir ter mais produtividade vai
+
+9
+00:00:22,199 --> 00:00:27,660
+conseguir ter mais assertividade e a
+
+10
+00:00:25,199 --> 00:00:28,980
+partir dos próximos módulos com o
+
+11
+00:00:27,660 --> 00:00:30,990
+conhecimento das novas práticas
+
+12
+00:00:28,980 --> 00:00:33,689
+contábeis você vai conseguir organizar
+
+13
+00:00:30,989 --> 00:00:36,359
+melhor as suas atividades e essa aula de
+
+14
+00:00:33,689 --> 00:00:39,449
+hoje essa hora de agora para gente falar
+
+15
+00:00:36,359 --> 00:00:42,780
+sobre o princípio de Pareto princípio
+
+16
+00:00:39,450 --> 00:00:45,000
+8020 talvez você já conheça talvez não
+
+17
+00:00:42,780 --> 00:00:47,489
+muita gente desconhece Esse princípio
+
+18
+00:00:45,000 --> 00:00:50,880
+Mas que que ele quer dizer o princípio
+
+19
+00:00:47,488 --> 00:00:53,909
+de Pareto ou regra 80/20 é uma tendência
+
+20
+00:00:50,880 --> 00:00:56,820
+que prevê que oitenta por cento dos
+
+21
+00:00:53,909 --> 00:00:59,069
+efeitos surgem a partir de vinte por
+
+22
+00:00:56,820 --> 00:01:00,460
+cento das causas Isso quer dizer o
+
+23
+00:00:59,070 --> 00:01:03,730
+seguinte que
+
+24
+00:01:00,460 --> 00:01:07,118
+e por exemplo das tarefas que você tem
+
+25
+00:01:03,729 --> 00:01:10,408
+hoje na sua rotina diária ou na sua
+
+26
+00:01:07,118 --> 00:01:13,569
+rotina mensal Vinte por cento delas
+
+27
+00:01:10,409 --> 00:01:15,659
+representa oitenta por cento dos
+
+28
+00:01:13,569 --> 00:01:18,358
+resultados
+
+29
+00:01:15,659 --> 00:01:22,380
+e faz sentido faz uma reflexão rápida
+
+30
+00:01:18,358 --> 00:01:24,089
+agora e a gente vai ter um desafio sobre
+
+31
+00:01:22,379 --> 00:01:26,640
+isso vou relacionar uma tarefa sobre
+
+32
+00:01:24,090 --> 00:01:28,740
+isso dá para você cumprir mas eu quero
+
+33
+00:01:26,640 --> 00:01:29,829
+que você pensa agora rapidinho comigo um
+
+34
+00:01:28,739 --> 00:01:31,929
+minutinho
+
+35
+00:01:29,829 --> 00:01:33,870
+só pensa em todas as atividades que você
+
+36
+00:01:31,930 --> 00:01:37,380
+faz o nome do seu dia
+
+37
+00:01:33,870 --> 00:01:39,780
+a peça você agora acordando escovando os
+
+38
+00:01:37,379 --> 00:01:41,339
+dentes levantando tomando um café ou não
+
+39
+00:01:39,780 --> 00:01:44,129
+Não sei se tomar café antes do trabalho
+
+40
+00:01:41,340 --> 00:01:45,960
+aí você se desloca vai até a sua
+
+41
+00:01:44,129 --> 00:01:47,819
+ansiedade para fazer o seu dia de
+
+42
+00:01:45,959 --> 00:01:50,759
+trabalho ou você vai pegar o carro vai
+
+43
+00:01:47,819 --> 00:01:52,739
+viajar para ter um cliente aí você chega
+
+44
+00:01:50,760 --> 00:01:55,250
+lá pensa nas tarefas que você faz na
+
+45
+00:01:52,739 --> 00:01:55,250
+parte da manhã
+
+46
+00:01:55,920 --> 00:02:01,920
+Oi como é que você começa o dia quem
+
+47
+00:01:58,709 --> 00:02:05,099
+você atende com quem você fala as pausas
+
+48
+00:02:01,920 --> 00:02:07,710
+que você faz pensa nessas tarefas tá aí
+
+49
+00:02:05,099 --> 00:02:10,109
+você vai fazer a pausa para o almoço e
+
+50
+00:02:07,709 --> 00:02:11,669
+você vai para casa ou você almoça na rua
+
+51
+00:02:10,110 --> 00:02:14,810
+depois ela vai voltar para o trabalho
+
+52
+00:02:11,669 --> 00:02:17,488
+peça que você faz na parte da tarde
+
+53
+00:02:14,810 --> 00:02:18,959
+passa essa reflexão então caminhando
+
+54
+00:02:17,489 --> 00:02:21,539
+mesmo causado aqui que eu quero que você
+
+55
+00:02:18,959 --> 00:02:24,539
+pense nisso agora tá rapidamente assim
+
+56
+00:02:21,539 --> 00:02:28,469
+só uma reflexão aí pensando que você faz
+
+57
+00:02:24,539 --> 00:02:30,659
+a tarde peço assim agora você fez o
+
+58
+00:02:28,469 --> 00:02:33,629
+nosso sino de um dia visualiza a sua
+
+59
+00:02:30,659 --> 00:02:36,000
+semana de trabalho segunda a sexta como
+
+60
+00:02:33,629 --> 00:02:38,699
+é que a sua semana e o seu mês pensa no
+
+61
+00:02:36,000 --> 00:02:40,650
+mês tudo se você tem todos os dias
+
+62
+00:02:38,699 --> 00:02:43,229
+iguais eles são repetitivos ou se
+
+63
+00:02:40,650 --> 00:02:45,810
+depende da semana do dia você tem
+
+64
+00:02:43,229 --> 00:02:48,179
+atividade diferente pensa no dia na
+
+65
+00:02:45,810 --> 00:02:51,030
+semana e no mês tá eu quero que você
+
+66
+00:02:48,180 --> 00:02:52,230
+pensa agora o seguinte dentro de tudo
+
+67
+00:02:51,030 --> 00:02:54,780
+que você faz
+
+68
+00:02:52,229 --> 00:02:56,609
+o e dentro daquilo que é importante para
+
+69
+00:02:54,780 --> 00:02:58,979
+você que que é importante para você como
+
+70
+00:02:56,610 --> 00:03:02,760
+contador como responsável pela entidade
+
+71
+00:02:58,979 --> 00:03:05,518
+quais resultados você busca eu fiz o
+
+72
+00:03:02,759 --> 00:03:07,769
+questionário da mentoria e muitos de
+
+73
+00:03:05,519 --> 00:03:10,379
+vocês eventualmente você colocou isso lá
+
+74
+00:03:07,769 --> 00:03:12,409
+que você busca por exemplo crescer na
+
+75
+00:03:10,378 --> 00:03:16,289
+carreira você busca novas oportunidades
+
+76
+00:03:12,409 --> 00:03:18,799
+você busca mais clareza mais segurança
+
+77
+00:03:16,289 --> 00:03:22,679
+nos procedimentos contábeis você busca
+
+78
+00:03:18,799 --> 00:03:24,750
+fazer o seu trabalho melhor você busca
+
+79
+00:03:22,680 --> 00:03:26,969
+fazer mais com menos enfim quais são
+
+80
+00:03:24,750 --> 00:03:29,669
+seus objetivos os objetivos da
+
+81
+00:03:26,969 --> 00:03:32,239
+contabilidade da sua identidade gerar
+
+82
+00:03:29,669 --> 00:03:34,348
+informação útil para tomada de decisão
+
+83
+00:03:32,239 --> 00:03:36,959
+gerar informações de qualidade na
+
+84
+00:03:34,348 --> 00:03:40,409
+prestação de contas Quantos por cento
+
+85
+00:03:36,959 --> 00:03:42,689
+das suas rotinas elas correspondem ao
+
+86
+00:03:40,409 --> 00:03:44,579
+máximo de resultados que você entrega
+
+87
+00:03:42,689 --> 00:03:47,370
+o e novamente quando eu faço essa
+
+88
+00:03:44,580 --> 00:03:49,890
+reflexão o pessoal normalmente vai
+
+89
+00:03:47,370 --> 00:03:52,730
+pensar assim olha oitenta por cento dos
+
+90
+00:03:49,889 --> 00:03:56,339
+resultados da contabilidade eles estão
+
+91
+00:03:52,729 --> 00:03:58,679
+concentrados por exemplo nos oitenta por
+
+92
+00:03:56,340 --> 00:04:00,990
+cento do resultado tá em vinte por cento
+
+93
+00:03:58,680 --> 00:04:03,780
+dos esforços que estão concentrados por
+
+94
+00:04:00,990 --> 00:04:07,530
+exemplo nas tarefas associadas às
+
+95
+00:04:03,780 --> 00:04:10,740
+rotinas orçamentárias tá E aí você pode
+
+96
+00:04:07,530 --> 00:04:13,740
+chegar essa situação ainda é invertido
+
+97
+00:04:10,740 --> 00:04:16,019
+você vai pensar assim olha eu gasto por
+
+98
+00:04:13,740 --> 00:04:19,530
+exatamente idade oitenta por cento do
+
+99
+00:04:16,019 --> 00:04:22,139
+meu tempo oitenta por cento do tempo ele
+
+100
+00:04:19,529 --> 00:04:24,809
+é despendido por exemplo para questões
+
+101
+00:04:22,139 --> 00:04:27,029
+orçamentárias tá E aí essas questões
+
+102
+00:04:24,810 --> 00:04:29,100
+orçamentárias elas eram apenas Vinte por
+
+103
+00:04:27,029 --> 00:04:32,279
+cento dos resultados que eu busco que
+
+104
+00:04:29,100 --> 00:04:34,740
+essa sabe essa inversão nessa área de
+
+105
+00:04:32,279 --> 00:04:36,719
+Pareto ela também é verdadeiro porque se
+
+106
+00:04:34,740 --> 00:04:39,990
+você foca Vinte por cento e vinte por
+
+107
+00:04:36,720 --> 00:04:41,490
+cento de ar 80 a o contrário também é
+
+108
+00:04:39,990 --> 00:04:42,670
+verdadeiro né oitenta por cento dos
+
+109
+00:04:41,490 --> 00:04:45,250
+esforços era
+
+110
+00:04:42,670 --> 00:04:47,439
+e as vinte por cento de resultados então
+
+111
+00:04:45,250 --> 00:04:48,910
+se você pensar na contabilidade como um
+
+112
+00:04:47,439 --> 00:04:50,560
+todo aquele que você quer para sua
+
+113
+00:04:48,910 --> 00:04:53,080
+contabilidade ou para sua carreira você
+
+114
+00:04:50,560 --> 00:04:56,610
+vai perceber por exemplo e você hoje
+
+115
+00:04:53,079 --> 00:04:59,620
+dedica tá em média aí oitenta por cento
+
+116
+00:04:56,610 --> 00:05:02,430
+para assuntos orçamentários que envolve
+
+117
+00:04:59,620 --> 00:05:05,050
+aí dúvidas em relação à impenho a
+
+118
+00:05:02,430 --> 00:05:07,449
+alterações que ocorrem no orçamento
+
+119
+00:05:05,050 --> 00:05:09,220
+enfim e eu ocupo oitenta por cento do
+
+120
+00:05:07,449 --> 00:05:10,779
+seu tempo com questões orçamentárias
+
+121
+00:05:09,220 --> 00:05:14,140
+essas questões orçamentárias elas
+
+122
+00:05:10,779 --> 00:05:16,479
+representam apenas Vinte por cento de
+
+123
+00:05:14,139 --> 00:05:19,029
+tudo aquilo que a contabilidade tem de
+
+124
+00:05:16,480 --> 00:05:20,500
+possibilidade para entregar Então essa é
+
+125
+00:05:19,029 --> 00:05:24,099
+uma possibilidade princípio de Pareto
+
+126
+00:05:20,500 --> 00:05:26,019
+vai dizer isso tá Eles começam o Pareto
+
+127
+00:05:24,100 --> 00:05:29,890
+começou a observar e perceber essa
+
+128
+00:05:26,019 --> 00:05:31,810
+situação que cerca de vinte por cento do
+
+129
+00:05:29,889 --> 00:05:34,240
+nosso esforço é do esforço que você se
+
+130
+00:05:31,810 --> 00:05:36,160
+dedica no trabalho é responsável por
+
+131
+00:05:34,240 --> 00:05:38,410
+oitenta por cento do seu desempenho
+
+132
+00:05:36,160 --> 00:05:42,070
+se você olhar por exemplo essa reflexão
+
+133
+00:05:38,410 --> 00:05:44,560
+a vinte por cento olha como é que é
+
+134
+00:05:42,069 --> 00:05:46,750
+porque é como que é doido isso aqui ó aí
+
+135
+00:05:44,560 --> 00:05:49,389
+você vai me dizer se a sua situação bate
+
+136
+00:05:46,750 --> 00:05:52,389
+ou não mas normalmente em média tá vinte
+
+137
+00:05:49,389 --> 00:05:54,099
+por cento das naturezas de receita
+
+138
+00:05:52,389 --> 00:05:56,349
+concentram oitenta por cento do
+
+139
+00:05:54,100 --> 00:05:57,850
+orçamento previsto faz sentido Se você
+
+140
+00:05:56,350 --> 00:06:00,430
+pegar o seu balancete da receita
+
+141
+00:05:57,850 --> 00:06:03,340
+orçamentária e ver a quantidade de
+
+142
+00:06:00,430 --> 00:06:06,519
+fichas que tem lá você vai perceber que
+
+143
+00:06:03,339 --> 00:06:08,529
+Vinte por cento das fichas representa
+
+144
+00:06:06,519 --> 00:06:11,409
+oitenta por cento do seu orçamento total
+
+145
+00:06:08,529 --> 00:06:15,599
+serão aquelas fichas por exemplo de
+
+146
+00:06:11,410 --> 00:06:18,610
+quatro a parte de impostos ICMS e IPVA
+
+147
+00:06:15,600 --> 00:06:20,220
+né alguma outra receita de transferência
+
+148
+00:06:18,610 --> 00:06:23,470
+por exemplo transferência do fundeb
+
+149
+00:06:20,220 --> 00:06:26,170
+outras receitas de maior vulto EA
+
+150
+00:06:23,470 --> 00:06:27,550
+entidade aí tem a prefeitura no caso a
+
+151
+00:06:26,170 --> 00:06:29,530
+sua empregada de maneira geral só vai
+
+152
+00:06:27,550 --> 00:06:31,930
+perceber que Vinte por cento das
+
+153
+00:06:29,529 --> 00:06:32,869
+receitas elas concentram oitenta por
+
+154
+00:06:31,930 --> 00:06:35,389
+cento do orçamento
+
+155
+00:06:32,870 --> 00:06:38,060
+E se eu chegar para o lado da despesa
+
+156
+00:06:35,389 --> 00:06:39,560
+por exemplo você vai ver que Vinte por
+
+157
+00:06:38,060 --> 00:06:41,720
+cento das naturezas de despesa
+
+158
+00:06:39,560 --> 00:06:43,939
+correspondente a oitenta por cento do
+
+159
+00:06:41,720 --> 00:06:46,580
+orçamento total por exemplo os gastos
+
+160
+00:06:43,939 --> 00:06:48,769
+com pessoal e encargos da folha de
+
+161
+00:06:46,579 --> 00:06:51,289
+pagamento com serviços de terceiros
+
+162
+00:06:48,769 --> 00:06:53,539
+pessoa física e jurídica se você juntar
+
+163
+00:06:51,290 --> 00:06:55,700
+quatro ficha de despesa você vai ver que
+
+164
+00:06:53,540 --> 00:06:57,410
+elas concentram praticamente oitenta por
+
+165
+00:06:55,699 --> 00:06:59,360
+cento do seu orçamento total Então é
+
+166
+00:06:57,410 --> 00:07:00,860
+isso que eu princípio de Pareto traz a
+
+167
+00:06:59,360 --> 00:07:03,800
+gente fazer uma análise das nossas
+
+168
+00:07:00,860 --> 00:07:06,680
+atividades para entender aquele mínimo
+
+169
+00:07:03,800 --> 00:07:08,540
+esforço que representa Mais resultados
+
+170
+00:07:06,680 --> 00:07:10,879
+para que a gente possa focar mais nisso
+
+171
+00:07:08,540 --> 00:07:13,400
+um prazer mais qualidade para isso o
+
+172
+00:07:10,879 --> 00:07:15,529
+programa apontador de valor ele tem uma
+
+173
+00:07:13,399 --> 00:07:16,879
+transformação Impacto grande porque de
+
+174
+00:07:15,529 --> 00:07:18,859
+alguma forma que trabalha com isso
+
+175
+00:07:16,879 --> 00:07:21,620
+também a gente trabalha dentro do
+
+176
+00:07:18,860 --> 00:07:24,350
+programa sabe os vinte por cento ali de
+
+177
+00:07:21,620 --> 00:07:26,030
+procedimentos contábeis e fiscais que já
+
+178
+00:07:24,350 --> 00:07:27,980
+eram oitenta por cento dos resultados
+
+179
+00:07:26,029 --> 00:07:30,169
+para qualidade das suas contas a gente
+
+180
+00:07:27,980 --> 00:07:32,879
+não vai ver no programa Tudo a gente vai
+
+181
+00:07:30,170 --> 00:07:36,090
+ver aquele que é essencial que ele quer
+
+182
+00:07:32,879 --> 00:07:38,189
+e quer mentalmente o resto dos oitenta
+
+183
+00:07:36,089 --> 00:07:40,589
+por cento já eram muito pouco resultado
+
+184
+00:07:38,189 --> 00:07:42,569
+ou eventualmente você nem prática hoje
+
+185
+00:07:40,589 --> 00:07:46,019
+aí então não faz sentido a gente abordar
+
+186
+00:07:42,569 --> 00:07:48,480
+no treinamento no programa uma sabe na
+
+187
+00:07:46,019 --> 00:07:50,549
+montanha de conteúdo em focar em vinte
+
+188
+00:07:48,480 --> 00:07:53,939
+por cento que traz mais resultados faz
+
+189
+00:07:50,550 --> 00:07:58,050
+sentido E aí qual que é a minha
+
+190
+00:07:53,939 --> 00:08:00,990
+provocação da qual que é a minha
+
+191
+00:07:58,050 --> 00:08:05,100
+orientação nesse sentido pra gente
+
+192
+00:08:00,990 --> 00:08:07,650
+finalizar esse módulo 1 tá esse módulo O
+
+193
+00:08:05,100 --> 00:08:10,310
+que que você vai fazer como desafio Tá
+
+194
+00:08:07,649 --> 00:08:13,079
+bom então você vai fazer o seguinte
+
+195
+00:08:10,310 --> 00:08:14,910
+vamos pegar aqui primeiro para gente
+
+196
+00:08:13,079 --> 00:08:18,449
+seguir a linha da aula de hoje
+
+197
+00:08:14,910 --> 00:08:21,600
+e você vai baixar esse material tá bom
+
+198
+00:08:18,449 --> 00:08:24,089
+aí você vai lhe está Olha o que eu vou
+
+199
+00:08:21,600 --> 00:08:26,610
+pedir para você Ele está abaixo todas as
+
+200
+00:08:24,089 --> 00:08:29,219
+atividades que você ou a sua equipe
+
+201
+00:08:26,610 --> 00:08:30,689
+desenvolve Então vai depender muito do
+
+202
+00:08:29,220 --> 00:08:33,450
+que que você quer melhorar o seu
+
+203
+00:08:30,689 --> 00:08:35,788
+desempenho pessoal é o desempenho da sua
+
+204
+00:08:33,450 --> 00:08:38,910
+equipe de contabilidade análise ela pode
+
+205
+00:08:35,788 --> 00:08:41,129
+mudar e aquelas atividades que você vai
+
+206
+00:08:38,909 --> 00:08:43,769
+estar só se você quer melhorar o
+
+207
+00:08:41,129 --> 00:08:45,929
+desempenho do setor contábil faça uma
+
+208
+00:08:43,769 --> 00:08:48,210
+avaliação das tarefas da contabilidade
+
+209
+00:08:45,929 --> 00:08:50,069
+Como tudo se você quer melhorar o seu
+
+210
+00:08:48,210 --> 00:08:52,080
+desempenho pessoal faça uma lista das
+
+211
+00:08:50,070 --> 00:08:54,450
+suas tarefas que você faz pessoalmente
+
+212
+00:08:52,080 --> 00:08:57,960
+tá bom Deus vai fazer uma lista delas
+
+213
+00:08:54,450 --> 00:09:00,570
+todas Tem que olhar assim como eu falei
+
+214
+00:08:57,960 --> 00:09:02,670
+é faço uma variação do dia na semana e
+
+215
+00:09:00,570 --> 00:09:05,310
+no mês nisso as principais atividades
+
+216
+00:09:02,669 --> 00:09:07,269
+música é o máximo de atividade que você
+
+217
+00:09:05,309 --> 00:09:10,689
+puder ele está sabe o que você faz hoje
+
+218
+00:09:07,269 --> 00:09:13,389
+É mesmo você vai marcar para Essas
+
+219
+00:09:10,690 --> 00:09:15,430
+atividades Quais delas você entende que
+
+220
+00:09:13,389 --> 00:09:19,179
+contribui para os objetivos que você
+
+221
+00:09:15,429 --> 00:09:22,209
+busca tá olha dessas dez tarefas que eu
+
+222
+00:09:19,179 --> 00:09:23,769
+listei Quais delas você entende que mais
+
+223
+00:09:22,210 --> 00:09:25,509
+contribuem para os resultados que
+
+224
+00:09:23,769 --> 00:09:28,029
+contribuem para a oitenta por cento dos
+
+225
+00:09:25,509 --> 00:09:30,639
+resultados que você tem os resultados
+
+226
+00:09:28,029 --> 00:09:33,039
+que você espera faz sentido Então você
+
+227
+00:09:30,639 --> 00:09:35,889
+vai fazer essa lista e vai marcar olha
+
+228
+00:09:33,039 --> 00:09:38,230
+essas aqui contribui para oitenta por
+
+229
+00:09:35,889 --> 00:09:40,899
+cento de resultados essas aqui não tá
+
+230
+00:09:38,230 --> 00:09:42,279
+bom esses resultados são quais são os
+
+231
+00:09:40,899 --> 00:09:44,259
+resultados que você espera o que que
+
+232
+00:09:42,279 --> 00:09:46,689
+você espera na sua carreira para sua
+
+233
+00:09:44,259 --> 00:09:48,730
+contabilidade quais essas ações elas
+
+234
+00:09:46,690 --> 00:09:50,890
+realmente são importantes para o
+
+235
+00:09:48,730 --> 00:09:53,440
+resultado que você busca tá bom essa
+
+236
+00:09:50,889 --> 00:09:57,039
+nova criação muito pessoal E aí você vai
+
+237
+00:09:53,440 --> 00:09:58,540
+então separar as que têm impacto é maior
+
+238
+00:09:57,039 --> 00:10:00,389
+impacto nos resultados e as que têm
+
+239
+00:09:58,539 --> 00:10:02,469
+menos gente vai fazer essa avaliação
+
+240
+00:10:00,389 --> 00:10:05,169
+primeiro para ver se a gente chega Nessa
+
+241
+00:10:02,470 --> 00:10:07,278
+proporção e depois para que você possa
+
+242
+00:10:05,169 --> 00:10:09,559
+priorizar mais
+
+243
+00:10:07,278 --> 00:10:12,350
+a Essas atividades que trazem mais
+
+244
+00:10:09,559 --> 00:10:14,119
+resultado e aquelas outras atividades
+
+245
+00:10:12,350 --> 00:10:16,850
+que ele oitenta por cento de atividades
+
+246
+00:10:14,120 --> 00:10:19,459
+que você faz que não geram resultado a
+
+247
+00:10:16,850 --> 00:10:21,499
+ideia a gente vê eliminando elas com o
+
+248
+00:10:19,458 --> 00:10:23,208
+tempo está sentindo você eliminar
+
+249
+00:10:21,499 --> 00:10:25,610
+algumas parece que você desenvolve hoje
+
+250
+00:10:23,208 --> 00:10:28,308
+para você liberar mais tempo e poder
+
+251
+00:10:25,610 --> 00:10:31,209
+praticar outras coisas que vão te trazer
+
+252
+00:10:28,308 --> 00:10:33,409
+mais resultado Então você vai fazer isso
+
+253
+00:10:31,208 --> 00:10:35,088
+depois que que você vai fazer eu já
+
+254
+00:10:33,409 --> 00:10:37,509
+tinha adiantado nas aulas passadas eu
+
+255
+00:10:35,089 --> 00:10:40,519
+quero que você para cumprir Seu desafio
+
+256
+00:10:37,509 --> 00:10:43,308
+é dentro do escopo desse módulo tá
+
+257
+00:10:40,519 --> 00:10:46,789
+identifique pelo menos um ponto de
+
+258
+00:10:43,308 --> 00:10:48,350
+melhoria para sua contabilidade só se
+
+259
+00:10:46,789 --> 00:10:50,838
+vai identificar um ponto de melhoria
+
+260
+00:10:48,350 --> 00:10:52,519
+pode ser o ponto que você quiser tá bom
+
+261
+00:10:50,839 --> 00:10:55,759
+aquilo que tá te dando mais dor de
+
+262
+00:10:52,519 --> 00:10:59,089
+cabeça hoje aquele que tem mais falhas
+
+263
+00:10:55,759 --> 00:11:01,188
+hoje em dia ou aquela falha e ocorre que
+
+264
+00:10:59,089 --> 00:11:02,860
+te traz mais prejuízo então escolha um
+
+265
+00:11:01,188 --> 00:11:07,259
+problema um ponto que você quer melhorar
+
+266
+00:11:02,860 --> 00:11:09,389
+e você vai fazer uma lista aqui então
+
+267
+00:11:07,259 --> 00:11:12,659
+ou menos um ponto pode ele está mais de
+
+268
+00:11:09,389 --> 00:11:15,029
+um tá pode estar três ou quatro mas a
+
+269
+00:11:12,659 --> 00:11:19,019
+gente vai priorizar resolver um Tá bom
+
+270
+00:11:15,029 --> 00:11:21,839
+eu já queria resolver tudo de uma vez cê
+
+271
+00:11:19,019 --> 00:11:24,960
+sabe pelo menos um ponto e depois você
+
+272
+00:11:21,840 --> 00:11:28,530
+vai aplicar dentro dos aprendizados
+
+273
+00:11:24,960 --> 00:11:30,180
+deste módulo você vai pegar esse ponto
+
+274
+00:11:28,529 --> 00:11:32,399
+que você selecionou que é importante
+
+275
+00:11:30,179 --> 00:11:37,229
+para você tá bom e eu quero que você
+
+276
+00:11:32,399 --> 00:11:39,959
+faça um um rascunho do processo para
+
+277
+00:11:37,230 --> 00:11:42,029
+rascunhar esse processo e você vai fazer
+
+278
+00:11:39,960 --> 00:11:44,910
+uma auditoria sobre eu quero que você
+
+279
+00:11:42,029 --> 00:11:46,110
+faça um Auditore analisando essa falha
+
+280
+00:11:44,909 --> 00:11:48,719
+ou esse ponto que você quer melhorar
+
+281
+00:11:46,110 --> 00:11:51,300
+para identificar a causa Onde está o
+
+282
+00:11:48,720 --> 00:11:54,960
+problema onde está a causa desse
+
+283
+00:11:51,299 --> 00:11:57,419
+problema é a uma falha no processo é
+
+284
+00:11:54,960 --> 00:12:00,360
+alguma rotina no sistema que está
+
+285
+00:11:57,419 --> 00:12:01,979
+inadequada é a falta de capacitação de
+
+286
+00:12:00,360 --> 00:12:04,710
+pessoas Então você vai escolher um ponto
+
+287
+00:12:01,980 --> 00:12:06,360
+pode ser uma integração Pode ser algum
+
+288
+00:12:04,710 --> 00:12:07,269
+problema como eu falei uma falha que
+
+289
+00:12:06,360 --> 00:12:10,720
+está ocorrendo a todos
+
+290
+00:12:07,269 --> 00:12:14,470
+é um por exemplo aquele aquele caso que
+
+291
+00:12:10,720 --> 00:12:17,019
+eu citei de chegar pagamentos com fonte
+
+292
+00:12:14,470 --> 00:12:18,790
+de recursos errada ou de ter um excesso
+
+293
+00:12:17,019 --> 00:12:21,669
+muito grande de alterações orçamentárias
+
+294
+00:12:18,789 --> 00:12:23,649
+e créditos adicionais ou falhas na
+
+295
+00:12:21,669 --> 00:12:26,740
+contabilização das receitas das despesas
+
+296
+00:12:23,649 --> 00:12:28,929
+enfim se alguma falha em demonstrativos
+
+297
+00:12:26,740 --> 00:12:31,029
+fiscais eu quero que você identifica um
+
+298
+00:12:28,929 --> 00:12:34,529
+ponto que seja importante para ti e que
+
+299
+00:12:31,029 --> 00:12:36,669
+você faça esse detalhamento tá de
+
+300
+00:12:34,529 --> 00:12:39,579
+processo
+
+301
+00:12:36,669 --> 00:12:42,069
+é uma análise sobre as pessoas que estão
+
+302
+00:12:39,580 --> 00:12:44,350
+envolvidas nesse nesse ponto que você
+
+303
+00:12:42,070 --> 00:12:46,570
+quer melhorar e uma análise do sistema
+
+304
+00:12:44,350 --> 00:12:49,090
+tá em quais pontos o sistema está
+
+305
+00:12:46,570 --> 00:12:51,040
+envolvido em paz pontos tem pessoas
+
+306
+00:12:49,090 --> 00:12:54,490
+envolvidos quais são essas pessoas em
+
+307
+00:12:51,039 --> 00:12:55,689
+quais pontos você tem o mapeamento de
+
+308
+00:12:54,490 --> 00:12:57,220
+ser processo como é que ele tá
+
+309
+00:12:55,690 --> 00:12:58,840
+funcionando a gente vai fazer uma
+
+310
+00:12:57,220 --> 00:13:01,450
+avaliação de isso aqui junto eu quero
+
+311
+00:12:58,840 --> 00:13:04,930
+que você me mande esse desafio Tá bom
+
+312
+00:13:01,450 --> 00:13:07,810
+então a gente já tem o desafio do módulo
+
+313
+00:13:04,929 --> 00:13:09,129
+0 Tá bom eu vou monitorar e inventar
+
+314
+00:13:07,809 --> 00:13:11,469
+mais pegar me mandou até já te deu o
+
+315
+00:13:09,129 --> 00:13:13,720
+filho de Beto agora o desafio no módulo
+
+316
+00:13:11,470 --> 00:13:16,000
+1 a ideia que ao longo de todos os modos
+
+317
+00:13:13,720 --> 00:13:18,879
+a gente tem desafios práticos para que
+
+318
+00:13:16,000 --> 00:13:20,909
+você possa destravar e evoluir a sua
+
+319
+00:13:18,879 --> 00:13:23,259
+contabilidade a sua atuação profissional
+
+320
+00:13:20,909 --> 00:13:25,269
+faça agora isso aqui antes de seguir
+
+321
+00:13:23,259 --> 00:13:28,210
+para o próximo módulo para um pouquinho
+
+322
+00:13:25,269 --> 00:13:30,129
+Olha só nesse ponto preencha o
+
+323
+00:13:28,210 --> 00:13:32,620
+formulário do desafio e mande para mim
+
+324
+00:13:30,129 --> 00:13:35,110
+por e-mail compartilhe lá com a nossa
+
+325
+00:13:32,620 --> 00:13:36,649
+comunidade no grupo e eu quero te dar
+
+326
+00:13:35,110 --> 00:13:39,649
+meu feedback para te ajudar
+
+327
+00:13:36,649 --> 00:13:42,619
+e a destravar esse ponto que você quer
+
+328
+00:13:39,649 --> 00:13:44,208
+melhorar que vai já resolver parte dos
+
+329
+00:13:42,619 --> 00:13:46,910
+problemas aí que você tem na frente da
+
+330
+00:13:44,208 --> 00:13:49,359
+Dica já forte abraço a gente se ver nas
+
+331
+00:13:46,909 --> 00:13:49,360
+próximas horas
+

@@ -1,0 +1,353 @@
+1
+00:00:03,270 --> 00:00:07,890
+In our previous tutorials, we’ve discussed
+the basics of semiconductors, band gap, current
+
+2
+00:00:07,889 --> 00:00:10,289
+carriers, and its classification.
+
+3
+00:00:10,289 --> 00:00:14,239
+We learned that in order for a semiconductor
+material to be useful, it needs to be doped
+
+4
+00:00:14,240 --> 00:00:20,750
+with an impurity atom and it could be a pentavalent
+atom to produce an n-type material or a trivalent
+
+5
+00:00:20,750 --> 00:00:23,570
+atom to come up with a p-type material.
+
+6
+00:00:23,570 --> 00:00:28,300
+Now, if we take a small piece of semiconductor
+material and dope half of it with a trivalent
+
+7
+00:00:28,300 --> 00:00:32,730
+atom and the other half with a pentavalent
+atom, that would result in a semiconductor
+
+8
+00:00:32,729 --> 00:00:38,140
+device with p-type and n-type portions, with
+a pn junction where they meet.
+
+9
+00:00:38,140 --> 00:00:43,579
+In this video, we are going to talk about
+this pn junction, as it is the basis for diodes.
+
+10
+00:00:43,579 --> 00:00:48,439
+After doping an intrinsic semiconductor material,
+usually silicon, so that part of it is p-type
+
+11
+00:00:48,439 --> 00:00:52,969
+and the other part is n-type, a pn junction
+is formed at the boundary between the p and
+
+12
+00:00:52,969 --> 00:00:54,359
+n regions.
+
+13
+00:00:54,359 --> 00:00:58,250
+In the p region, the majority carriers are
+holes while in the n region, the majority
+
+14
+00:00:58,250 --> 00:01:00,539
+carriers are free electrons.
+
+15
+00:01:00,539 --> 00:01:05,269
+When the pn junction is formed, the free electrons
+in the n region begin to diffuse across the
+
+16
+00:01:05,269 --> 00:01:09,509
+junction and combine with the holes in the
+p region near the junction.
+
+17
+00:01:09,509 --> 00:01:13,608
+This makes the n region lose free electrons
+and creates a layer of positive charges near
+
+18
+00:01:13,608 --> 00:01:14,728
+the junction.
+
+19
+00:01:14,728 --> 00:01:19,019
+As the free electrons combine with the holes
+in the p region, the p region also loses holes
+
+20
+00:01:19,019 --> 00:01:22,920
+and creates a layer of negative charges near
+the junction.
+
+21
+00:01:22,920 --> 00:01:26,810
+These two layers of positive and negative
+charges create a region where charge carriers
+
+22
+00:01:26,810 --> 00:01:28,350
+are depleted.
+
+23
+00:01:28,349 --> 00:01:31,548
+This region is called, fittingly, the depletion
+region.
+
+24
+00:01:31,549 --> 00:01:35,259
+In reality, the depletion region is formed
+in an incredibly short amount of time and
+
+25
+00:01:35,259 --> 00:01:38,810
+its width is very thin compared to the p and
+n regions.
+
+26
+00:01:38,810 --> 00:01:42,618
+The depletion region will continue to expand
+until the total negative charge in the depletion
+
+27
+00:01:42,618 --> 00:01:46,728
+region repels any further diffusion of electrons
+into the p region.
+
+28
+00:01:46,728 --> 00:01:50,418
+This time, the depletion region acts as a
+barrier to the movement of electrons across
+
+29
+00:01:50,418 --> 00:01:51,828
+the junction.
+
+30
+00:01:51,828 --> 00:01:56,339
+In the depletion region, there are many positive
+and negative charges on opposite sides, and
+
+31
+00:01:56,340 --> 00:02:00,340
+as described by Coulomb’s law, if there’s
+a positive charge and a negative charge near
+
+32
+00:02:00,340 --> 00:02:03,539
+each other, there is a force acting on these
+charges.
+
+33
+00:02:03,539 --> 00:02:07,149
+The forces between the positive and negative
+charges in the depletion region create an
+
+34
+00:02:07,149 --> 00:02:12,469
+electric field which blocks the free electrons
+from the n region to flow across the junction.
+
+35
+00:02:12,469 --> 00:02:16,789
+In order for the electrons to move through
+this electric field, a certain amount of voltage
+
+36
+00:02:16,789 --> 00:02:22,349
+equal to the barrier potential of the electric
+field must be applied across the pn junction
+
+37
+00:02:22,349 --> 00:02:23,769
+with the proper polarity.
+
+38
+00:02:23,770 --> 00:02:28,900
+Now, let’s try to analyze the formation
+of the pn junction and the depletion region
+
+39
+00:02:28,900 --> 00:02:30,960
+through an energy diagram.
+
+40
+00:02:30,960 --> 00:02:35,349
+The energy levels of the valence and conduction
+bands in an n-type material are lower than
+
+41
+00:02:35,349 --> 00:02:38,979
+the valence and conduction bands in a p-type
+material.
+
+42
+00:02:38,979 --> 00:02:43,869
+This is because, trivalent impurities exert
+lower forces on the outer-shell electrons
+
+43
+00:02:43,870 --> 00:02:49,530
+and lower forces mean that the electron orbits
+are slightly larger and have greater energy.
+
+44
+00:02:49,530 --> 00:02:54,439
+If we try to examine the energy diagram for
+a pn junction at the instant of formation,
+
+45
+00:02:54,439 --> 00:02:58,719
+we can see that the valence and conduction
+bands in the n region are at a noticeably
+
+46
+00:02:58,719 --> 00:03:02,859
+lower energy level compared to the p region
+valence and conduction bands.
+
+47
+00:03:02,860 --> 00:03:07,360
+But, we can also see that the upper part of
+the conduction band in the n region and the
+
+48
+00:03:07,360 --> 00:03:10,910
+lower part of the conduction band in the p
+region overlap.
+
+49
+00:03:10,909 --> 00:03:14,829
+In this case, the free electrons in the upper
+part of the conduction in the region can easily
+
+50
+00:03:14,830 --> 00:03:19,710
+diffuse across the pn junction and temporarily
+become free electrons in the lower part of
+
+51
+00:03:19,710 --> 00:03:21,960
+the p region conduction band.
+
+52
+00:03:21,960 --> 00:03:26,629
+Temporary because, after crossing the pn junction,
+these free electrons rapidly lose energy and
+
+53
+00:03:26,629 --> 00:03:30,620
+fall into the holes in the valence band of
+the p region.
+
+54
+00:03:30,620 --> 00:03:33,960
+As the free electrons from the upper part
+of the n region conduction band cross the
+
+55
+00:03:33,960 --> 00:03:37,650
+junction, the depletion region starts to form
+and expand.
+
+56
+00:03:37,650 --> 00:03:43,030
+But, the energy level of the n region conduction
+band also starts to decrease.
+
+57
+00:03:43,030 --> 00:03:46,710
+This process will continue until there will
+be no electrons left in the n region conduction
+
+58
+00:03:46,710 --> 00:03:50,260
+band with enough energy to cross the junction.
+
+59
+00:03:50,259 --> 00:03:54,539
+At that time, the junction is at equilibrium
+and the depletion region is complete because
+
+60
+00:03:54,539 --> 00:03:56,179
+the diffusion is done.
+
+61
+00:03:56,180 --> 00:04:00,099
+As you can see in the energy diagram, the
+top of the n region conduction band and the
+
+62
+00:04:00,099 --> 00:04:04,329
+bottom of the p region conduction band is
+now aligned and this time, there’s now an
+
+63
+00:04:04,330 --> 00:04:08,740
+energy “hill” that the electron from the
+n-region must climb in order to get to the
+
+64
+00:04:08,740 --> 00:04:10,330
+p region.
+
+65
+00:04:10,330 --> 00:04:13,920
+Another thing to observe here is that the
+energy level of the valence band in the n
+
+66
+00:04:13,919 --> 00:04:16,418
+region also decreased.
+
+67
+00:04:16,418 --> 00:04:20,649
+So the energy gap between the valence band
+and the conduction band in the n region remains
+
+68
+00:04:20,649 --> 00:04:21,848
+the same.
+
+69
+00:04:21,848 --> 00:04:26,899
+In this video, we discussed about the pn junction,
+its formation and the formation of the depletion
+
+70
+00:04:26,899 --> 00:04:28,209
+region.
+
+71
+00:04:28,209 --> 00:04:32,288
+We also discussed the barrier potential and
+the energy diagrams of the pn junction and
+
+72
+00:04:32,288 --> 00:04:34,009
+the depletion region.
+
+73
+00:04:34,009 --> 00:04:36,718
+If you have any questions, leave it in the
+comments below and if you’ve found this
+
+74
+00:04:36,718 --> 00:04:43,189
+interesting or helpful, give it a like and
+subscribe to our channel!
+
